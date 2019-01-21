@@ -3,7 +3,7 @@ library('infotheo')
 library(foreach)
 library(doParallel)
 
-# Output is informative feature subset
+# Output(fea) is informative feature subset
 
 
 setwd("C:/Users/Snehalika/Desktop")       #set your dataset path here 
